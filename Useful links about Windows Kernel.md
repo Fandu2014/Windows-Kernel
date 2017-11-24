@@ -32,6 +32,7 @@
 11. [Abusing GDI Objects for ring0 Primitives Revolution](https://sensepost.com/blog/2017/abusing-gdi-objects-for-ring0-primitives-revolution/)
 12. [Direct X – Direct way to Microsoft Windows Kernel](http://2015.zeronights.org/assets/files/11-Tarakanov.pdf)
 13. [ADVANCED HEAP MANIPULATION IN WINDOWS 8](https://media.blackhat.com/eu-13/briefings/Liu/bh-eu-13-liu-advanced-heap-slides.pdf)
+14. [윈도우 커널 익스플로잇](https://www.slideshare.net/SSRINCLee/ss-79766206)
 
 
 
@@ -53,6 +54,7 @@
 15. [Win32k Dark Composition](https://cansecwest.com/slides/2017/CSW2017_PengQiu-ShefangZhong_win32k_dark_composition.pdf)
 16. [Kernel Driver mmap Handler Exploitation](https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-mmap-exploitation-whitepaper-2017-09-18.pdf)
 17. [Exploit-CVE-2017-6008](https://github.com/cbayet/Exploit-CVE-2017-6008)
+18. [[Local Exploit] Windows NDPROXY Local SYSTEM Privilege Escalation Zero-Day (CVE-2013-5065)](http://hackability.kr/entry/Local-Exploit-Windows-NDPROXY-Local-SYSTEM-Privilege-Escalation-ZeroDay-CVE20135065)
 
 
 
@@ -110,3 +112,4 @@ video : https://www.reddit.com/r/fuzzing/comments/1n3h05/windows_kernel_fuzzing_
 6. [Windows WIN32K.SYS System Call Table](http://j00ru.vexillium.org/syscalls/win32k/32/)
 7. [Windows x86-64 WIN32K.SYS System Call Table](http://j00ru.vexillium.org/syscalls/win32k/64/)
 8. [HomePosts archiveContact GoGoGadget – kernel exploitation helper class](http://blog.rewolf.pl/blog/?p=1739)
+9. [shovelMan](http://shovelman.tistory.com/) : Not ningan
