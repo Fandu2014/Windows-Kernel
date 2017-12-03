@@ -33,6 +33,7 @@
 12. [Direct X – Direct way to Microsoft Windows Kernel](http://2015.zeronights.org/assets/files/11-Tarakanov.pdf)
 13. [ADVANCED HEAP MANIPULATION IN WINDOWS 8](https://media.blackhat.com/eu-13/briefings/Liu/bh-eu-13-liu-advanced-heap-slides.pdf)
 14. [윈도우 커널 익스플로잇](https://www.slideshare.net/SSRINCLee/ss-79766206)
+15. [Bochspwn](https://www.blackhat.com/docs/us-17/wednesday/us-17-Jurczyk-Bochspwn-Reloaded-Detecting-Kernel-Memory-Disclosure-With-X86-Emulation-And-Taint-Tracking.pdf)
 
 
 
@@ -151,6 +152,7 @@ video : https://www.reddit.com/r/fuzzing/comments/1n3h05/windows_kernel_fuzzing_
 46. [Windows 8.1内核利用—CVE-2014-4113漏洞分析](http://bobao.360.cn/learning/detail/2989.html)
 47. [【技术分享】CVE-XX-XX：“Atom截胡”Windows内核提权漏洞分析](http://bobao.360.cn/learning/detail/3017.html)
 48. [MS14-063（CVE-2014-4115）FAT32驱动内核溢出分析](http://bobao.360.cn/learning/detail/118.html)
+49. [MS17-017 Windows内核提权漏洞Exploit分析](https://www.anquanke.com/post/id/87334)
 
 
 
