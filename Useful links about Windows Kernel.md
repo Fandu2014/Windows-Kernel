@@ -160,7 +160,7 @@ video : https://www.reddit.com/r/fuzzing/comments/1n3h05/windows_kernel_fuzzing_
 
 
 ##Other useful links
-1. [fuzzysecurity](http://www.fuzzysecurity.com/tutorials.html) : exploitation for all platform
+1. [fuzzysecurity](http://www.fuzzysecurity.com/tutorials.html)
 2. [KASLRfinder](https://github.com/ufrisk/kaslrfinder)
 3. [j00ru](http://j00ru.vexillium.org/)
 4. [Windows X86 System Call Table](http://j00ru.vexillium.org/syscalls/nt/32/)
