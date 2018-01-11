@@ -14,6 +14,7 @@
 13. [Intel CPU security features](https://github.com/huku-/research/wiki/Intel-CPU-security-features)
 14. [Hardening Windows 10 with zero-day exploit mitigations](https://blogs.technet.microsoft.com/mmpc/2017/01/13/hardening-windows-10-with-zero-day-exploit-mitigations/?platform=hootsuite)
 15. [Windows Operating System Archaeology](https://www.slideshare.net/enigma0x3/windows-operating-system-archaeology)
+16. [Windows 드라이버 시작 - msdn](https://msdn.microsoft.com/ko-kr/library/windows/hardware/ff554690(v=vs.85).aspx)
 
 
 
