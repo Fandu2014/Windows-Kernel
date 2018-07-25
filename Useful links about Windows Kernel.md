@@ -1,4 +1,4 @@
-#Basic of Windows Kernel 
+# Basic of Windows Kernel 
 1. [Windows Kernel Internals Overview](http://www.i.u-tokyo.ac.jp/edu/training/ss/lecture/new-documents/Lectures/00-WindowsKernelOverview/WindowsKernelOverview.pdf)
 2. [Windows Kernel Internals Win32k.sys](http://pasotech.altervista.org/windows_internals/Win32KSYS.pdf)
 3. [Windows Kernel Internals I/O Architecture](http://i-web.i.u-tokyo.ac.jp/edu/training/ss/lecture/new-documents/Lectures/06-IOArchitecture/IOArchitecture.pdf)
@@ -18,8 +18,8 @@
 
 
 
-##Kernel Exploitation
-###General
+## Kernel Exploitation
+### General
 1. [TAKING WINDOWS 10 KERNEL EXPLOITATION TO THE NEXT LEVEL – LEVERAING WRITEWHAT-WHERE VULNERABILITIES IN CREATORS UPDATE](https://www.blackhat.com/docs/us-17/wednesday/us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level%E2%80%93Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update.pdf)
 2. [Bypassing kernel ASLR Target : Windows 10](https://drive.google.com/file/d/0B3P18M-shbwrNWZTa181ZWRCclk/edit?pli=1)
 3. [Analysing the NULL SecurityDescriptor kernel exploitation mitigation in the latest Windows 10 v1607 Build 14393	](https://labs.nettitude.com/blog/analysing-the-null-securitydescriptor-kernel-exploitation-mitigation-in-the-latest-windows-10-v1607-build-14393/)
@@ -38,7 +38,7 @@
 
 
 
-###1-day
+### 1-day
 1. [Windows Kernel Exploitation 101: Exploiting CVE-2014-4113](https://www.exploit-db.com/docs/39665.pdf)
 2. [Root Cause Analysis of Windows Kernel UAF Vulnerability lead to CVE-2016-3310](https://blog.fortinet.com/2016/08/17/root-cause-analysis-of-windows-kernel-uaf-vulnerability-lead-to-cve-2016-3310)
 3. [WoW64 and So Can You : Bypassing EMET With a Single Instruction](https://duo.com/assets/pdf/wow-64-and-so-can-you.pdf)
@@ -60,12 +60,12 @@
 
 
 
-###Solutions of HEVD
+### Solutions of HEVD
 1. [sizzop](https://sizzop.github.io/)
 2. [First exploit in Windows Kernel (HEVD)](https://blahcat.github.io/2017/08/18/first-exploit-in-windows-kernel-hevd/)
 
 
-##Kernel Fuzzing
+## Kernel Fuzzing
 1. [FUZZING THE WINDOWS KERNEL](https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-fuzzing-the-windows-kernel.pdf)
 2. [Platform Agnostic Kernel Fuzzing](https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-Platform-Agnostic-Kernel-Fuzzing-FINAL.pdf) : cross platform fuzzer
 video : https://www.youtube.com/watch?v=rv5PqCEVG_U
@@ -79,7 +79,7 @@ video : https://www.reddit.com/r/fuzzing/comments/1n3h05/windows_kernel_fuzzing_
 
 
 
-##ProjectZero(All interesting articles)
+## ProjectZero(All interesting articles)
 1. [Windows Kernel ATMFD.DLL unlimited out-of-bounds stack manipulation via BLEND operator](https://bugs.chromium.org/p/project-zero/issues/detail?id=180&can=1&q=CVE-2015-0093)
 2. [Windows Kernel ATMFD.DLL read/write-what-where in LOAD and STORE operators](https://bugs.chromium.org/p/project-zero/issues/detail?id=177&redir=1)
 3. [Windows Kernel stack memory disclosure in win32kfull!SfnINLPUAHDRAWMENUITEM](https://bugs.chromium.org/p/project-zero/issues/detail?id=1192&can=1&q&sort=-id)
@@ -104,7 +104,7 @@ video : https://www.reddit.com/r/fuzzing/comments/1n3h05/windows_kernel_fuzzing_
 22. [Windows Exploitation Tricks: Arbitrary Directory Creation to Arbitrary File Read](https://googleprojectzero.blogspot.kr/2017/08/windows-exploitation-tricks-arbitrary.html)
 23. [Using Binary Diffing to Discover Windows Kernel Memory Disclosure Bugs](https://googleprojectzero.blogspot.kr/2017/10/using-binary-diffing-to-discover.html)
 
-##Chinese articles (Awesome Chinese Hackers!!!)
+## Chinese articles (Awesome Chinese Hackers!!!)
 1. [Windows内核存在漏洞，影响Windows2000到Windows10所有版本](http://www.freebuf.com/vuls/147114.html)
 2. [Windows内核漏洞CVE-2016-0143分析](http://www.freebuf.com/vuls/103064.html)
 3. [使用WinDbg调试Windows内核(一)](http://www.freebuf.com/articles/web/99512.html)
@@ -160,7 +160,7 @@ video : https://www.reddit.com/r/fuzzing/comments/1n3h05/windows_kernel_fuzzing_
 
 
 
-##Other useful links
+## Other useful links
 1. [fuzzysecurity](http://www.fuzzysecurity.com/tutorials.html)
 2. [KASLRfinder](https://github.com/ufrisk/kaslrfinder)
 3. [j00ru](http://j00ru.vexillium.org/)
